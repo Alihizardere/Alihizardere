@@ -12,7 +12,7 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihizardere&show_icons=true&locale=en&layout=compact" alt="alihizardere" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihizardere&show_icons=true&locale=en&layout=compact" alt="alihizardere" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alihizardere&show_icons=true&locale=en" alt="alihizardere" /></p>
 
